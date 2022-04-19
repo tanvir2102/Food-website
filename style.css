@@ -1,0 +1,35 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.span-color {
+    color: red;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 25px;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.flexible-section {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.order-now {
+    text-decoration: none;
+    color: white;
+    padding: 10px 10px;
+    background-image: linear-gradient(red, black);
+    border-radius: 25px;
+    font-size: 15px;
+}
+
+.second-sec {
+    background-image: url(shapes/7.png);
+}
