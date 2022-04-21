@@ -60,3 +60,28 @@ body {
     border-radius: 20PX;
 
 }
+
+.subscriber-design {
+    text-align: center;
+    width: 93%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 30px 1px gray;
+    border-radius: 15px;
+}
+
+.text-format1 {
+    font-size: 40px;
+}
+
+.text-format2 {
+    font-size: 30px;
+}
+
+.footer-design {
+    background-color: black;
+    color: lightslategrey;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
